@@ -35,29 +35,29 @@
 
 | 日期 | 发现 | 证据 | 来源 |
 |---|---|:---:|---|
-| 经典 | 线虫 DAF-2 突变（胰岛素/IGF-1 通路抑制）可延长寿命 5 倍 | 🟢 | Nature 系列论文 |
-| 经典 | FOXO3 基因多态性与人类百岁老人长寿相关 | 🟢 | 多个独立人群研究复现 |
-| 经典 | APOE 等位基因与长寿及阿尔茨海默症风险关联 | 🟢 | 大规模人群 GWAS |
-| 经典 | mTOR 通路抑制可模拟热量限制延寿效果（多物种验证） | 🟢 | 酵母→线虫→果蝇→小鼠 |
-| 经典 | 雷帕霉素延长小鼠寿命 10-20% | 🟢 | NIA ITP 多中心验证 |
-| 经典 | SIRT6 过表达延长雄性小鼠寿命约 15% | 🟡 | 单一研究，性别差异 |
+| 经典 | 线虫 DAF-2 突变（胰岛素/IGF-1 通路抑制）可延长寿命 5 倍 | 🟢 | [Kenyon et al. 1993, *Nature*](https://doi.org/10.1038/366461a0) |
+| 经典 | FOXO3 基因多态性与人类百岁老人长寿相关 | 🟢 | [Willcox et al. 2008, *PNAS*](https://doi.org/10.1073/pnas.0801030105) |
+| 经典 | APOE 等位基因与长寿及阿尔茨海默症风险关联 | 🟢 | [Deelen et al. 2019, *Nat Commun*](https://doi.org/10.1038/s41467-019-11558-2) |
+| 经典 | mTOR 通路抑制可模拟热量限制延寿效果（多物种验证） | 🟢 | [Harrison et al. 2009, *Nature*](https://doi.org/10.1038/nature08221) |
+| 经典 | 雷帕霉素延长小鼠寿命 10-20% | 🟢 | [Harrison et al. 2009, *Nature* (NIA ITP)](https://doi.org/10.1038/nature08221) |
+| 经典 | SIRT6 过表达延长雄性小鼠寿命约 15% | 🟡 | [Kanfi et al. 2012, *Nature*](https://doi.org/10.1038/nature10815) |
 
 ### 表观遗传与重编程
 
 | 日期 | 发现 | 证据 | 来源 |
 |---|---|:---:|---|
-| 经典 | 表观遗传时钟（Horvath Clock）可精确预测生物学年龄 | 🟢 | 多次验证 |
-| 2016 | 山中因子（OSKM）部分重编程逆转早衰小鼠衰老表型 | 🟡 | Salk Institute, Cell |
-| 持续 | 热量限制可减缓表观遗传时钟速率 | 🟢 | CALERIE 人体试验等 |
+| 经典 | 表观遗传时钟（Horvath Clock）可精确预测生物学年龄 | 🟢 | [Horvath 2013, *Genome Biol*](https://doi.org/10.1186/gb-2013-14-10-r115) |
+| 2016 | 山中因子（OSKM）部分重编程逆转早衰小鼠衰老表型 | 🟡 | [Ocampo et al. 2016, *Cell*](https://doi.org/10.1016/j.cell.2016.11.052) |
+| 持续 | 热量限制可减缓表观遗传时钟速率 | 🟢 | [Waziry et al. 2023, *Nat Aging*](https://doi.org/10.1038/s43587-022-00357-y) |
 
 ### 端粒与细胞衰老
 
 | 日期 | 发现 | 证据 | 来源 |
 |---|---|:---:|---|
-| 经典 | 端粒缩短是复制性衰老的核心驱动因素 | 🟢 | Nobel Prize 2009 |
-| 经典 | TERC/TERT 敲除小鼠表现加速衰老 | 🟢 | 多实验室复现 |
-| 经典 | 成年小鼠诱导端粒酶可逆转早衰表型并延长寿命 | 🟡 | 特定模型，安全性待评估 |
-| 持续 | Senolytics（衰老细胞清除剂）延缓小鼠多种老年疾病 | 🟡 | 转基因小鼠模型→早期人体试验 |
+| 经典 | 端粒缩短是复制性衰老的核心驱动因素 | 🟢 | [2009 Nobel Prize](https://www.nobelprize.org/prizes/medicine/2009/summary/) |
+| 经典 | TERC/TERT 敲除小鼠表现加速衰老 | 🟢 | [Blasco et al. 1997, *Cell*](https://doi.org/10.1016/S0092-8674(00)81846-0) |
+| 经典 | 成年小鼠诱导端粒酶可逆转早衰表型并延长寿命 | 🟡 | [Jaskelioff et al. 2011, *Nature*](https://doi.org/10.1038/nature09603) |
+| 持续 | Senolytics（衰老细胞清除剂）延缓小鼠多种老年疾病 | 🟡 | [Baker et al. 2016, *Nature*](https://doi.org/10.1038/nature16932) |
 
 ---
 
@@ -73,10 +73,10 @@
 
 ## 📚 推荐阅读
 
-- López-Otín et al. (2023) "Hallmarks of aging: An expanding universe" — *Cell*
-- Kenyon (2010) "The genetics of ageing" — *Nature*
-- Horvath & Raj (2018) "DNA methylation-based biomarkers and the epigenetic clock theory of ageing" — *Nature Reviews Genetics*
-- Baker et al. (2016) "Naturally occurring p16-positive cells shorten healthy lifespan" — *Nature*
+- López-Otín et al. (2023) "Hallmarks of aging: An expanding universe" — [*Cell*](https://doi.org/10.1016/j.cell.2022.11.001)
+- Kenyon (2010) "The genetics of ageing" — [*Nature*](https://doi.org/10.1038/nature09047)
+- Horvath & Raj (2018) "DNA methylation-based biomarkers and the epigenetic clock theory of ageing" — [*Nat Rev Genet*](https://doi.org/10.1038/s41576-018-0004-3)
+- Baker et al. (2016) "Naturally occurring p16-positive cells shorten healthy lifespan" — [*Nature*](https://doi.org/10.1038/nature16932)
 
 ---
 

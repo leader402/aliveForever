@@ -76,12 +76,12 @@
 
 | 平台 | 链接 | 活跃度 | 简介 |
 |---|---|:---:|---|
-| **r/longevity** | reddit.com/r/longevity | 🔥🔥🔥 | Reddit 最大长寿社区，~400K 成员 |
-| **r/Futurology** | reddit.com/r/Futurology | 🔥🔥🔥 | 未来主义社区，常讨论永生话题 |
-| **LessWrong** | lesswrong.com | 🔥🔥 | 理性主义社区，高质量意识/AI 讨论 |
-| **Longecity** | longecity.org | 🔥🔥 | 老牌长寿论坛，实践经验丰富 |
-| **Foresight Institute** | foresight.org | 🔥 | 纳米技术 + 长寿 + 意识领域的前沿智库 |
-| **Life Extension Advocacy Foundation** | lifespan.io | 🔥🔥 | 严肃科普，众筹支持长寿研究 |
+| **r/longevity** | [reddit.com/r/longevity](https://www.reddit.com/r/longevity/) | 🔥🔥🔥 | Reddit 最大长寿社区，~400K 成员 |
+| **r/Futurology** | [reddit.com/r/Futurology](https://www.reddit.com/r/Futurology/) | 🔥🔥🔥 | 未来主义社区，常讨论永生话题 |
+| **LessWrong** | [lesswrong.com](https://www.lesswrong.com/) | 🔥🔥 | 理性主义社区，高质量意识/AI 讨论 |
+| **Longecity** | [longecity.org](https://www.longecity.org/) | 🔥🔥 | 老牌长寿论坛，实践经验丰富 |
+| **Foresight Institute** | [foresight.org](https://foresight.org/) | 🔥 | 纳米技术 + 长寿 + 意识领域的前沿智库 |
+| **Life Extension Advocacy Foundation** | [lifespan.io](https://www.lifespan.io/) | 🔥🔥 | 严肃科普，众筹支持长寿研究 |
 
 ---
 
@@ -89,14 +89,14 @@
 
 | 资源 | 用途 | 链接 |
 |---|---|---|
-| **ClinicalTrials.gov** | 全球临床试验注册数据库 | clinicaltrials.gov |
-| **PubMed** | 生物医学文献检索 | pubmed.ncbi.nlm.nih.gov |
-| **bioRxiv / medRxiv** | 生物/医学预印本 | biorxiv.org / medrxiv.org |
+| **ClinicalTrials.gov** | 全球临床试验注册数据库 | [clinicaltrials.gov](https://clinicaltrials.gov/) |
+| **PubMed** | 生物医学文献检索 | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/) |
+| **bioRxiv / medRxiv** | 生物/医学预印本 | [biorxiv.org](https://www.biorxiv.org/) / [medrxiv.org](https://www.medrxiv.org/) |
 | **GeroScience Database** | 衰老研究专业数据库 | — |
-| **Human Mortality Database** | 全球死亡率数据 | mortality.org |
-| **AgingClock.org** | 表观遗传时钟工具 | agingclock.org |
-| **AlphaFold Protein Structure DB** | AI 蛋白质结构预测 | alphafold.ebi.ac.uk |
-| **Allen Brain Atlas** | 脑结构与基因表达图谱 | brain-map.org |
+| **Human Mortality Database** | 全球死亡率数据 | [mortality.org](https://www.mortality.org/) |
+| **AgingClock.org** | 表观遗传时钟工具 | [agingclock.org](https://agingclock.org/) |
+| **AlphaFold Protein Structure DB** | AI 蛋白质结构预测 | [alphafold.ebi.ac.uk](https://alphafold.ebi.ac.uk/) |
+| **Allen Brain Atlas** | 脑结构与基因表达图谱 | [brain-map.org](https://portal.brain-map.org/) |
 
 ---
 

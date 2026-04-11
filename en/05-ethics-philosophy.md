@@ -81,7 +81,7 @@ This page tracks the **ethical debates, philosophical questions, and societal im
 
 | Issue | Status |
 |---|---|
-| Neuralink animal experiments | Alleged ~1,500 animal deaths over 4 years, under federal investigation |
+| Neuralink animal experiments | Alleged ~1,500 animal deaths over 4 years, under federal investigation — [Reuters Investigation](https://www.reuters.com/technology/neuralink-staff-cite-animal-testing-problems-elon-musks-brain-chip-company-2022-12-05/) |
 | Aging research mouse experiments | Extensive use of genetically engineered mice, involving long-term suffering (e.g., progeroid models) |
 | Parabiosis experiments | Surgically joining young-old mice raises animal welfare concerns |
 
@@ -105,11 +105,11 @@ This page tracks the **ethical debates, philosophical questions, and societal im
 
 | Date | Person/Institution | View | Evidence |
 |---|---|---|:---:|
-| Classic | **Nick Bostrom** (Oxford) | Humanity has a moral obligation to research life extension | 🟡 |
-| Classic | **Aubrey de Grey** | Aging is a disease that can and should be "cured" | 🟡 |
-| Classic | **Francis Fukuyama** | Life extension technology may be "the world's most dangerous idea" | 🟡 |
-| Classic | **Bernard Williams** | Immortality would become unbearably monotonous | 🟡 |
-| Classic | **Ray Kurzweil** | Predicts 2045 "Singularity": humans merge with AI, achieving immortality | 🔴 |
+| Classic | **Nick Bostrom** (Oxford) | Humanity has a moral obligation to research life extension — ["The Fable of the Dragon-Tyrant"](https://www.nickbostrom.com/fable/dragon.html) | 🟡 |
+| Classic | **Aubrey de Grey** | Aging is a disease that can and should be "cured" — [SENS Research Foundation](https://www.sens.org/) | 🟡 |
+| Classic | **Francis Fukuyama** | Life extension technology may be "the world's most dangerous idea" — [*Our Posthuman Future* (2002)](https://en.wikipedia.org/wiki/Our_Posthuman_Future) | 🟡 |
+| Classic | **Bernard Williams** | Immortality would become unbearably monotonous — ["The Makropulos Case" (1973)](https://doi.org/10.1017/CBO9781139107556.009) | 🟡 |
+| Classic | **Ray Kurzweil** | Predicts 2045 "Singularity": humans merge with AI, achieving immortality — [*The Singularity Is Near*](https://en.wikipedia.org/wiki/The_Singularity_Is_Near) | 🔴 |
 | 2018 | **Zhou Qi** (CAS Academician) | Stem cell anti-aging lacks clinical evidence; opposes exaggerated claims | 🟡 |
 
 ---
@@ -128,8 +128,8 @@ This page tracks the **ethical debates, philosophical questions, and societal im
 
 - 🎬 *Black Mirror* S2E1 "Be Right Back" — Ethics of AI-replicated deceased
 - 🎬 *Altered Carbon* — Class stratification in a mind-transferable society
-- 📖 Bernard Williams (1973) "The Makropulos Case" — The boredom argument against immortality
-- 📖 Derek Parfit (1984) "Reasons and Persons" — Personal identity and the problem of copies
+- 📖 Bernard Williams (1973) ["The Makropulos Case"](https://doi.org/10.1017/CBO9781139107556.009) — The boredom argument against immortality
+- 📖 Derek Parfit (1984) [*Reasons and Persons*](https://en.wikipedia.org/wiki/Reasons_and_Persons) — Personal identity and the problem of copies
 
 ---
 

@@ -77,7 +77,7 @@
 
 | 议题 | 现状 |
 |---|---|
-| Neuralink 动物实验 | 被控 4 年实验致 ~1500 只动物死亡，接受联邦调查 |
+| Neuralink 动物实验 | 被控 4 年实验致 ~1500 只动物死亡，接受联邦调查 — [Reuters 调查报道](https://www.reuters.com/technology/neuralink-staff-cite-animal-testing-problems-elon-musks-brain-chip-company-2022-12-05/) |
 | 衰老研究中的小鼠实验 | 大量使用基因工程小鼠，涉及长期痛苦（如早衰模型） |
 | 异体共生实验 | 将年轻-老年小鼠缝合共生，存在动物福利争议 |
 
@@ -101,11 +101,11 @@
 
 | 日期 | 人物/机构 | 观点 | 证据 |
 |---|---|---|:---:|
-| 经典 | **Nick Bostrom** (牛津) | 人类有道德义务研究延长寿命技术 | 🟡 |
-| 经典 | **Aubrey de Grey** | 衰老是一种疾病，可以且应该被"治愈" | 🟡 |
-| 经典 | **Francis Fukuyama** | 延寿技术可能是"世界上最危险的思想" | 🟡 |
-| 经典 | **Bernard Williams** | 永生将因千篇一律而变得不可忍受 | 🟡 |
-| 经典 | **Ray Kurzweil** | 预测 2045 年"奇点"：人类将与 AI 融合，实现永生 | 🔴 |
+| 经典 | **Nick Bostrom** (牛津) | 人类有道德义务研究延长寿命技术 — ["The Fable of the Dragon-Tyrant"](https://www.nickbostrom.com/fable/dragon.html) | 🟡 |
+| 经典 | **Aubrey de Grey** | 衰老是一种疾病，可以且应该被“治愈” — [SENS Research Foundation](https://www.sens.org/) | 🟡 |
+| 经典 | **Francis Fukuyama** | 延寿技术可能是“世界上最危险的思想” — [*Our Posthuman Future* (2002)](https://en.wikipedia.org/wiki/Our_Posthuman_Future) | 🟡 |
+| 经典 | **Bernard Williams** | 永生将因千篇一律而变得不可忍受 — ["The Makropulos Case" (1973)](https://doi.org/10.1017/CBO9781139107556.009) | 🟡 |
+| 经典 | **Ray Kurzweil** | 预测 2045 年“奇点”：人类将与 AI 融合，实现永生 — [*The Singularity Is Near* (2005)](https://en.wikipedia.org/wiki/The_Singularity_Is_Near) | 🔴 |
 | 2018 | **周琪院士**（中科院） | 干细胞抗衰缺乏临床证据，反对夸大宣传 | 🟡 |
 
 ---
@@ -124,8 +124,8 @@
 
 - 🎬 电影《黑镜》S2E1 "Be Right Back" — AI 复制逝者的伦理困境
 - 🎬 电影《副本》(Altered Carbon) — 意识可转移社会的阶级固化
-- 📖 Bernard Williams (1973) "The Makropulos Case" — 永生的无聊论证
-- 📖 Derek Parfit (1984) "Reasons and Persons" — 人格同一性与复制问题
+- 📖 Bernard Williams (1973) ["The Makropulos Case"](https://doi.org/10.1017/CBO9781139107556.009) — 永生的无聊论证
+- 📖 Derek Parfit (1984) [*Reasons and Persons*](https://en.wikipedia.org/wiki/Reasons_and_Persons) — 人格同一性与复制问题
 
 ---
 

@@ -27,10 +27,10 @@
 | 日期 | 事件 | 证据 |
 |---|---|:---:|
 | 1988 | 汉斯·莫拉维克在《智力后裔》中提出"渐进式意识转移"思想实验 | — |
-| 2005 | Blue Brain Project 启动，尝试模拟大鼠新皮层柱 | 🟡 |
-| 2014 | OpenWorm 项目模拟秀丽线虫 302 个神经元的完整连接组 | 🟡 |
-| 2019 | 果蝇完整大脑连接组（约 10 万神经元）首次发表 | 🟢 |
-| 2024 | 人脑 1 mm³ 组织的突触级连接组首次完成（Google + Harvard） | 🟢 |
+| 2005 | Blue Brain Project 启动，尝试模拟大鼠新皮层柱 — [Markram 2006, *Nat Rev Neurosci*](https://doi.org/10.1038/nrn1848) | 🟡 |
+| 2014 | OpenWorm 项目模拟秀丽线虫 302 个神经元的完整连接组 — [openworm.org](https://openworm.org) | 🟡 |
+| 2019 | 果蝇完整大脑连接组（约 10 万神经元）首次发表 — [Zheng et al. 2018, *Cell*](https://doi.org/10.1016/j.cell.2018.06.019) | 🟢 |
+| 2024 | 人脑 1 mm³ 组织的突触级连接组首次完成（Google + Harvard） — [Shapson-Coe et al. 2024, *Science*](https://doi.org/10.1126/science.adk4858) | 🟢 |
 | 未来 | 完整人脑连接组（约 860 亿神经元，~150 万亿突触）→ 远期目标 | 🔴 |
 
 **核心挑战：**
@@ -52,18 +52,18 @@
 | 2017 | Neuralink 成立，目标为大脑制作通用 I/O 接口 | — |
 | 2019 | 马斯克宣称猴子已可通过植入接口用意念控制计算机 | 🔴 |
 | 2020.08 | 展示植入芯片的猪"格特鲁德"，实时记录嗅觉脑信号 | 🟡 |
-| 2021.04 | 猴子 Pager 通过脑芯片意念玩乒乓游戏（Pong） | 🟡 |
+| 2021.04 | 猴子 Pager 通过脑芯片意念玩乒乓游戏（Pong） — [Neuralink 演示](https://neuralink.com/blog/monkey-mindpong/) | 🟡 |
 | 2022.12 | 猴子 Sake 实现意念打字，输入完整句子 | 🟡 |
-| 2023 | FDA 批准 Neuralink 首例人体临床试验 | 🟢 |
-| 2024 | 首位人类受试者 Noland Arbaugh 植入，用意念操控电脑 | 🟢 |
+| 2023 | FDA 批准 Neuralink 首例人体临床试验 — [FDA Approval](https://www.fda.gov/news-events/press-announcements) | 🟢 |
+| 2024 | 首位人类受试者 Noland Arbaugh 植入，用意念操控电脑 — [Neuralink Blog](https://neuralink.com/blog/) | 🟢 |
 
 ### 其他脑机接口项目
 
 | 项目 | 特点 | 证据 |
 |---|---|:---:|
-| BrainGate | 犹他阵列，多名瘫痪患者成功用意念控制设备 | 🟢 |
-| Synchron（Stentrode） | 血管内植入，微创，已获 FDA 批准人体试验 | 🟡 |
-| 清华大学 NEO | 无线微创柔性 BCI | 🟡 |
+| BrainGate | 犹他阵列，多名瘫痪患者成功用意念控制设备 — [Hochberg et al. 2012, *Nature*](https://doi.org/10.1038/nature11076) | 🟢 |
+| Synchron（Stentrode） | 血管内植入，微创，已获 FDA 批准人体试验 — [synchron.com](https://synchron.com) | 🟡 |
+| 清华大学 NEO | 无线微创柔性 BCI — [清华新闻](https://www.tsinghua.edu.cn/en/) | 🟡 |
 
 ---
 
@@ -83,9 +83,9 @@
 |---|---|:---:|
 | 迄今成功复苏的哺乳动物案例 | **零** | 🟢（确认阴性） |
 | 小型生物（线虫等）冷冻复活 | 已实现 | 🟢 |
-| 玻璃化保存兔肾后恢复功能（2009） | 已实现 | 🟡 |
-| 猪脑组织突触结构完整保存（2018） | 已实现 | 🟡 |
-| Nectome：化学固化+低温保存脑连接体 | 研究中 | 🔴 |
+| 玻璃化保存兔肾后恢复功能（2009） | 已实现 — [Fahy et al. 2009, *Organogenesis*](https://doi.org/10.4161/org.5.3.9974) | 🟡 |
+| 猪脑组织突触结构完整保存（2018） | 已实现 — [McIntyre & Bhatt 2015, *Cryobiology*](https://doi.org/10.1016/j.cryobiol.2015.09.003) | 🟡 |
+| Nectome：化学固化+低温保存脑连接体 | 研究中 — [nectome.com](https://nectome.com) | 🔴 |
 
 ---
 

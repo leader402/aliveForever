@@ -76,12 +76,12 @@ Curated high-quality learning resources in longevity science and consciousness i
 
 | Platform | Link | Activity | Description |
 |---|---|:---:|---|
-| **r/longevity** | reddit.com/r/longevity | 🔥🔥🔥 | Reddit's largest longevity community, ~400K members |
-| **r/Futurology** | reddit.com/r/Futurology | 🔥🔥🔥 | Futurism community, frequent immortality discussions |
-| **LessWrong** | lesswrong.com | 🔥🔥 | Rationalist community, high-quality consciousness/AI discourse |
-| **Longecity** | longecity.org | 🔥🔥 | Veteran longevity forum, rich practical experience |
-| **Foresight Institute** | foresight.org | 🔥 | Think tank: nanotech + longevity + consciousness |
-| **Life Extension Advocacy Foundation** | lifespan.io | 🔥🔥 | Serious science communication, crowdfunded research support |
+| **r/longevity** | [reddit.com/r/longevity](https://www.reddit.com/r/longevity/) | 🔥🔥🔥 | Reddit's largest longevity community, ~400K members |
+| **r/Futurology** | [reddit.com/r/Futurology](https://www.reddit.com/r/Futurology/) | 🔥🔥🔥 | Futurism community, frequent immortality discussions |
+| **LessWrong** | [lesswrong.com](https://www.lesswrong.com/) | 🔥🔥 | Rationalist community, high-quality consciousness/AI discourse |
+| **Longecity** | [longecity.org](https://www.longecity.org/) | 🔥🔥 | Veteran longevity forum, rich practical experience |
+| **Foresight Institute** | [foresight.org](https://foresight.org/) | 🔥 | Think tank: nanotech + longevity + consciousness |
+| **Life Extension Advocacy Foundation** | [lifespan.io](https://www.lifespan.io/) | 🔥🔥 | Serious science communication, crowdfunded research support |
 
 ---
 
@@ -89,14 +89,14 @@ Curated high-quality learning resources in longevity science and consciousness i
 
 | Resource | Purpose | Link |
 |---|---|---|
-| **ClinicalTrials.gov** | Global clinical trial registry | clinicaltrials.gov |
-| **PubMed** | Biomedical literature search | pubmed.ncbi.nlm.nih.gov |
-| **bioRxiv / medRxiv** | Biology/medicine preprint servers | biorxiv.org / medrxiv.org |
+| **ClinicalTrials.gov** | Global clinical trial registry | [clinicaltrials.gov](https://clinicaltrials.gov/) |
+| **PubMed** | Biomedical literature search | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/) |
+| **bioRxiv / medRxiv** | Biology/medicine preprint servers | [biorxiv.org](https://www.biorxiv.org/) / [medrxiv.org](https://www.medrxiv.org/) |
 | **GeroScience Database** | Aging research database | — |
-| **Human Mortality Database** | Global mortality data | mortality.org |
-| **AgingClock.org** | Epigenetic clock tools | agingclock.org |
-| **AlphaFold Protein Structure DB** | AI protein structure prediction | alphafold.ebi.ac.uk |
-| **Allen Brain Atlas** | Brain structure & gene expression atlas | brain-map.org |
+| **Human Mortality Database** | Global mortality data | [mortality.org](https://www.mortality.org/) |
+| **AgingClock.org** | Epigenetic clock tools | [agingclock.org](https://agingclock.org/) |
+| **AlphaFold Protein Structure DB** | AI protein structure prediction | [alphafold.ebi.ac.uk](https://alphafold.ebi.ac.uk/) |
+| **Allen Brain Atlas** | Brain structure & gene expression atlas | [brain-map.org](https://portal.brain-map.org/) |
 
 ---
 

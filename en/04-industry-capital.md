@@ -53,10 +53,10 @@ This page tracks **companies, funding, clinical trials, and regulatory developme
 
 | Trial Name | Drug/Therapy | Phase | Status | Evidence |
 |---|---|:---:|---|:---:|
-| TAME | Metformin for anti-aging | Phase III | Ongoing | 🟡 |
-| CALERIE | Caloric restriction on human aging | Completed | 2-yr CR slowed aging 2-3% | 🟢 |
-| Senolytics (multiple) | Dasatinib + Quercetin | Phase I/II | Multiple ongoing | 🟡 |
-| Neuralink PRIME | BCI human implant | Early | First subject completed | 🟡 |
+| TAME | Metformin for anti-aging | Phase III | Ongoing — [NCT02432287](https://clinicaltrials.gov/study/NCT02432287) | 🟡 |
+| CALERIE | Caloric restriction on human aging | Completed | 2-yr CR slowed aging 2-3% — [NCT00427193](https://clinicaltrials.gov/study/NCT00427193) | 🟢 |
+| Senolytics (multiple) | Dasatinib + Quercetin | Phase I/II | Multiple ongoing — [NCT04313634](https://clinicaltrials.gov/study/NCT04313634) | 🟡 |
+| Neuralink PRIME | BCI human implant | Early | First subject completed — [neuralink.com/blog](https://neuralink.com/blog/) | 🟡 |
 
 ---
 
@@ -64,9 +64,9 @@ This page tracks **companies, funding, clinical trials, and regulatory developme
 
 | Date | Event | Impact |
 |---|---|---|
-| 2022 | FDA removed NMN from dietary supplement list | NMN market legality restricted in US |
-| 2023 | FDA approved Neuralink human clinical trial | BCI enters human phase |
-| 2023 | FDA grants Loyal's dog longevity drug "reasonable expectation of effectiveness" | First lifespan drug to receive this |
+| 2022 | FDA removed NMN from dietary supplement list — [FDA](https://www.fda.gov/food/new-dietary-ingredients-ndi-notification-process) | NMN market legality restricted in US |
+| 2023 | FDA approved Neuralink human clinical trial — [Reuters](https://www.reuters.com/technology/neuralink-gets-us-fda-approval-human-clinical-study-brain-implants-2023-05-25/) | BCI enters human phase |
+| 2023 | FDA grants Loyal's dog longevity drug "reasonable expectation of effectiveness" — [Loyal Blog](https://loyalfordogs.com/posts/fda-milestone) | First lifespan drug to receive this |
 | Ongoing | Countries strengthening regulation of stem cell medical tourism | Limiting unproven stem cell anti-aging services |
 
 ---

@@ -53,10 +53,10 @@
 
 | 试验名称 | 药物/疗法 | 阶段 | 状态 | 证据 |
 |---|---|:---:|---|:---:|
-| TAME | 二甲双胍抗衰老 | III 期 | 进行中 | 🟡 |
-| CALERIE | 热量限制对人体衰老 | 完成 | 2 年 CR 减缓衰老 2-3% | 🟢 |
-| Senolytics (多项) | 达沙替尼+槲皮素 | I/II 期 | 多项进行中 | 🟡 |
-| Neuralink PRIME | 脑机接口人体植入 | 早期 | 首例受试者完成 | 🟡 |
+| TAME | 二甲双胍抗衰老 | III 期 | 进行中 — [NCT02432287](https://clinicaltrials.gov/study/NCT02432287) | 🟡 |
+| CALERIE | 热量限制对人体衰老 | 完成 | 2 年 CR 减缓衰老 2-3% — [NCT00427193](https://clinicaltrials.gov/study/NCT00427193) | 🟢 |
+| Senolytics (多项) | 达沙替尼+槞皮素 | I/II 期 | 多项进行中 — [NCT04313634](https://clinicaltrials.gov/study/NCT04313634) | 🟡 |
+| Neuralink PRIME | 脑机接口人体植入 | 早期 | 首例受试者完成 — [neuralink.com/blog](https://neuralink.com/blog/) | 🟡 |
 
 ---
 
@@ -64,9 +64,9 @@
 
 | 日期 | 事件 | 影响 |
 |---|---|---|
-| 2022 | FDA 将 NMN 从膳食补充剂清单除名 | NMN 在美市场合法地位受限 |
-| 2023 | FDA 批准 Neuralink 人体临床试验 | 脑机接口进入人体阶段 |
-| 2023 | FDA 认定 Loyal 犬类延寿药"合理期望有效" | 首个延寿药物获此认定 |
+| 2022 | FDA 将 NMN 从膳食补充剂清单除名 — [FDA Response](https://www.fda.gov/food/new-dietary-ingredients-ndi-notification-process) | NMN 在美市场合法地位受限 |
+| 2023 | FDA 批准 Neuralink 人体临床试验 — [Reuters](https://www.reuters.com/technology/neuralink-gets-us-fda-approval-human-clinical-study-brain-implants-2023-05-25/) | 脑机接口进入人体阶段 |
+| 2023 | FDA 认定 Loyal 犬类延寿药“合理期望有效” — [Loyal Blog](https://loyalfordogs.com/posts/fda-milestone) | 首个延寿药物获此认定 |
 | 持续 | 各国对干细胞旅游医疗加强监管 | 限制未经验证的干细胞抗衰服务 |
 
 ---
